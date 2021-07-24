@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+
+.a{
+    background: linear-gradient(#FFFFFF, #888888);
+    text-align: center; 
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flexbox;
+    justify-content: space-evenly;
+}
+
+.l{
+    text-align: center; 
+}
